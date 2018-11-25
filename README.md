@@ -1,2 +1,2 @@
 # webpack v2
-Basic config  of webpack version 2
+boiler plate webpack version 2 configuration
